@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.env
+
+frontend/node_modules/
+frontend/.next/
+
+backend/venv/
+backend/__pycache__/
+
+chroma_db/
+
+*.pyc
